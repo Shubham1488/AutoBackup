@@ -27,3 +27,13 @@
 ## Log File-- 
 ![Log](https://github.com/Shubham1488/AutoBackup/blob/master/Photos/LogFile.png)
 
+
+## Requirements
+1. pydrive
+2. Google Drive API
+    To Enable Google Drive API, Refer to following Link
+[Enabling Google Drive API and Pydirve Installation](https://medium.com/@annissouames99/how-to-upload-files-automatically-to-drive-with-python-ee19bb13dda)
+
+
+## Maintainers
+ * Shubham Dhiman - https://github.com/Shubham1488
